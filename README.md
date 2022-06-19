@@ -1,2 +1,2 @@
 # Git-Tutorial
-Config files for my GitHub profile.
+스스로 첫 커밋 테스트 해보기
