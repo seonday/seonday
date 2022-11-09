@@ -34,5 +34,5 @@
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonday&layout=compact">
-
-  ![seonday's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=seonday)
+  
+![seonday's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonday&show_icons=true&theme=buefy)
