@@ -27,7 +27,7 @@
 <div align=center>
   <a style='margin: 0 5px 0 0;' href="https://velog.io/@seonday"><img
       src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-  <a href="https://www.instagram.com/sseondayy"><img
+  <a href="https://www.instagram.com/sseonrisee"><img
       src="https://img.shields.io/badge/Instagram-D62766?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <br>
 </div>
