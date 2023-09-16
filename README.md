@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seonday&fontSize=80" />
 </div>
 <div align=center>
-  <h3>📚 Studying</h3>
+  <h3>📚</h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align=center>
-  <h3>🌈 About Me</h3>
+  <h3>🌈</h3>
 </div>
 <div align=center>
   <a style='margin: 0 5px 0 0;' href="https://velog.io/@seonday"><img
