@@ -3,6 +3,13 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seonday&fontSize=80" />
 </div>
 <div align=center>
+  <h3>🌐</h3>
+  <p line-height=30px>
+    WEB / APP
+  </p>
+</div>
+<br>
+<div align=center>
   <h3>📚</h3>
 </div>
 <div align=center>
